@@ -1,0 +1,17 @@
+Thanks for adquiring Retro Gun Pack by CrimsongCat!
+
+You can also find more here: https://crimsongcat.itch.io/
+
+If you like it, it will help a lot if you give this product 5 stars!
+
+Also if you have any suggestions you can always post a comment
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FAQ:
+·Can I use this pack for my commercial games?
+This pack its under CC 4.0 this means you can use it commercially, as long as it's attributed to the creator (CrimsongCat)
+
+·How to apply textures?
+> Blender: https://img.itch.zone/aW1nLzE4ODYzNTMxLnBuZw==/original/bSW%2FWZ.png
+> Unreal: https://img.itch.zone/aW1nLzE5Nzc3MTYzLnBuZw==/original/Mubviq.png (If having problems try to convert the alpha texture into png)
